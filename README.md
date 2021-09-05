@@ -9,7 +9,15 @@ Research findings and documentation relating to deep learning #computerVision #N
 
 4. [Fourier transforms for image processing](https://docs.google.com/document/d/1fn7g6ncGBrHPQ6w5LSAVb79LtAUuUHvSY4I1sBVz25g/edit?usp=sharing)
 
-5. [Farm produce analytics using computer vision - Tomatoes and onions classification](https://docs.google.com/document/d/1cxoLkg3wzP2Q8BgJ0sj40WcvVS3h77bBZvR_s3igaEQ/edit?usp=sharing)
+5. [Farm produce analytics using computer vision - Tomatoes and onions classification](Farm produce classification using a robotic arm and computer vision- (Edge Intelligence)
+6. [Plantnosis](https://github.com/datascienceife/Research-Publications-and-documentation/blob/main/Poster%20Presentation/Plantnosis%20Poster.pdf)
+
+
+8. [PlantHub-Dataset](https://github.com/datascienceife/PlantHub-DataSet)
+
+
+10. [Multi-Lingual[(https://github.com/datascienceife/MultiLingual)
+
 
 
 Do take note that these works are work in progress and can't be viewed unless you are given permission to. 
