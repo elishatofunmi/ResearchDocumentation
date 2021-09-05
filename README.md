@@ -18,7 +18,7 @@ Research findings and documentation relating to deep learning #computerVision #N
 8. [PlantHub-Dataset](https://github.com/datascienceife/PlantHub-DataSet)
 
 
-10. [Multi-Lingual[(https://github.com/datascienceife/MultiLingual)
+10. [Multi-Lingual](https://github.com/datascienceife/MultiLingual)
 
 
 
